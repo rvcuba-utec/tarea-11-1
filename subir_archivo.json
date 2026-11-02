@@ -1,0 +1,6 @@
+{
+    "nombre_bucket": "mi-bucket-utec-2026",
+    "nombre_directorio": "documentos",
+    "nombre_archivo": "prueba.txt",
+    "contenido": "Este es el contenido del archivo de prueba"
+}
